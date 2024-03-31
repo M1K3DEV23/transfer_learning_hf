@@ -5,6 +5,13 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+m1k3dev23-vit_model/model.safetensors
+
+M1K3DEV23-distilroberta-base-mrpc-glue/model.safetensors
+M1K3DEV23-distilroberta-base-mrpc-glue/checkpoint-500/model.safetensors
+M1K3DEV23-distilroberta-base-mrpc-glue/checkpoint-500/optimizer.pt
+
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
